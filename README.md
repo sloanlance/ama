@@ -1,11 +1,11 @@
-# Ask me anything! — Coding and Technology Edition
+# Ask me anything!<sup>1,2</sup> <br/> <sup>1</sup> Coding and Technology Edition <br/> <sup>2</sup>_Expurgated Version_
 
-**Unfortunately, I'm usually too busy to answer questions quickly.  I'll answer them whenever I have time.**
+> ℹ️ **Unfortunately, I'm often too busy to answer questions quickly.  I'll answer them as time allows.**
+
+"Anything" means *anything about coding and technology* and maybe some other things, too.  Work.  Code.  Life.  Philosophy.  Personal questions (I'll answer only if I'm in the mood).
 
 - ## [Ask a question](../../issues/new)
 - ## [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
-
-"Anything" means *anything about coding and technology*.  Work.  Code.  Life.  Philosophy.  Maybe personal questions, if I'm in the mood.
 
 ### Guidelines
 
